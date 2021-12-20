@@ -1,5 +1,7 @@
 # macOS Auto Image Tagger
 
+![GitHub last commit](https://img.shields.io/github/last-commit/thaikolja/macos-auto-image-tagger) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/thaikolja/macos-auto-image-tagger) ![GitHub issues](https://img.shields.io/github/issues/thaikolja/macos-auto-image-tagger) 
+
 **macOS Auto Image Tagger** is a small action for [Dropzone](https://aptonic.com/) that automatically adds tags to images via the API provided by [imagga](https://imagga.com/auth/signup). With tags describing the content of the image, macOS and other apps are able to find the requested file.
 
 ## Getting Started
